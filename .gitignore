@@ -15,9 +15,6 @@ obj/
 .DS_Store
 Thumbs.db
 
-# ASP.NET
-appsettings.*.json
-secrets.json
 
 # Entity Framework Migrations History
 Migrations/
