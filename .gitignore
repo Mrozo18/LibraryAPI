@@ -25,3 +25,7 @@ Migrations/
 # VS Code
 .vscode/
 .vs/
+
+# Angular dependencies
+UI/libraryApp/node_modules/
+UI/libraryApp/dist/
